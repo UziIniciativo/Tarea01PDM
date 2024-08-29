@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tarea01</string>
+    <string name="ascii_art">
+         __/\__\n
+        \    /\n
+        __/\__/    \__/\__\n
+        \                /\n
+        /_              _\\n
+        \            /\n
+        __/            \__\n
+        \                /\n
+        /_  __      __  _\\n
+        \/  \    /  \/\n
+        /_  _\\n
+        \/
+    </string>
+    <string name="estrella"><![CDATA[__/__\n  /\n__/__/ __/__\n  /\n/_ _&#10;   /\n__/ __\n  /\n/_ __ __ _&#10; /   / /\n /_ _&#10; /]]></string>
+</resources>
